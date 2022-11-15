@@ -6,5 +6,5 @@
 
 # For starting the server 
 
-# run npm dev
+# npm run dev
 
