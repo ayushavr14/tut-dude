@@ -1,10 +1,10 @@
-# tut-dude
+# tut-dude [live link](https://tute-dude.netlify.app/)
 
-# For installing the dependencies run 
+#### First of all install the dependencies by running. 
+_(make sure you are on working directory)_
+`npm install`
 
-# npm start
+#### Then start the application by doing
 
-# For starting the server 
-
-# npm run dev
+`npm run dev`
 
